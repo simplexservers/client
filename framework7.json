@@ -1,0 +1,18 @@
+{
+  "cwd": "D:\\Projects\\SimplexServers\\client",
+  "type": [
+    "web"
+  ],
+  "name": "SS App",
+  "framework": "core",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
